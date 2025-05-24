@@ -1,0 +1,8 @@
+{
+    "build": {
+      "cmd": "composer install --no-dev --optimize-autoloader"
+    },
+    "start": {
+      "cmd": "php saya coba --host=0.0.0.0 --port=$PORT"
+    }
+  }
